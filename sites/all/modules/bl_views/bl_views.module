@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the bl_views feature.
+ */
+
+include_once 'bl_views.features.inc';
