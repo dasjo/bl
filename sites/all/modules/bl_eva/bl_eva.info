@@ -5,5 +5,6 @@ dependencies[] = eva
 dependencies[] = views
 features[ctools][] = views:views_default:3.0
 features[features_api][] = api:2
+features[views_view][] = node_user
 features[views_view][] = related_content_eva
 features_exclude[dependencies][ctools] = ctools

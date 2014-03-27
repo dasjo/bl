@@ -1,12 +1,11 @@
 name = bl_views
 core = 7.x
 package = Features
-dependencies[] = eva
+dependencies[] = advanced_help
 dependencies[] = views_ui
 features[ctools][] = views:views_default:3.0
 features[features_api][] = api:2
 features[views_view][] = cool_tags
 features[views_view][] = cool_users
-features[views_view][] = node_user
 features[views_view][] = related_content
 features_exclude[dependencies][ctools] = ctools
