@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the bl_panelizer feature.
+ */
+
+include_once 'bl_panelizer.features.inc';

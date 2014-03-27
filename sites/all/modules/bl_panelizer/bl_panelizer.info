@@ -1,0 +1,12 @@
+name = bl_panelizer
+core = 7.x
+package = Features
+dependencies[] = ctools
+dependencies[] = panelizer
+features[ctools][] = panelizer:panelizer:1
+features[features_api][] = api:2
+features[panelizer_defaults][] = node:page:default:default
+features[variable][] = panelizer_defaults_node_page
+features[variable][] = panelizer_node:page_allowed_layouts
+features[variable][] = panelizer_node:page_allowed_types
+features[variable][] = panelizer_node:page_default
