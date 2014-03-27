@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the bl_ds feature.
+ */
+
+include_once 'bl_ds.features.inc';

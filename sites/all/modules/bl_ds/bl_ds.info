@@ -1,0 +1,13 @@
+name = bl_ds
+core = 7.x
+package = Features
+dependencies[] = ctools
+dependencies[] = ds
+features[ctools][] = ds:ds:1
+features[ds_field_settings][] = node|article|teaser
+features[ds_field_settings][] = user|user|default
+features[ds_layout_settings][] = node|article|default
+features[ds_layout_settings][] = node|article|teaser
+features[ds_layout_settings][] = user|user|default
+features[ds_view_modes][] = mini
+features[features_api][] = api:2
