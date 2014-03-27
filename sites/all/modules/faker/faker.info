@@ -1,0 +1,12 @@
+name = Faker
+description = Use the PHP Faker library to generate more meaningful sample content.
+package = Development
+core = 7.x
+tags[] = developer
+dependencies[] = libraries
+
+; Information added by drupal.org packaging script on 2013-09-30
+version = "7.x-1.x-dev"
+core = "7.x"
+project = "faker"
+datestamp = "1380577793"
